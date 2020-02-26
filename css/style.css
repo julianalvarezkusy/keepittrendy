@@ -107,6 +107,13 @@ h4{
 	text-align: center;
 	padding-top: 150px;
 }
+
+.formulario{
+	width: 100%;
+	height: 180vh;
+	text-align: center;
+	padding-top: 150px;
+}
 .nosotros h1{
 	font-weight: 100;
 }
@@ -184,6 +191,8 @@ iframe{
 	color: darkgrey;
 	padding-top: 80px;
 }
+
+
 
 
 /*@media only screen 
