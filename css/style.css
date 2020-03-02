@@ -99,9 +99,18 @@ h4{
 	background: pink;
 }
 
+
+
 .nosotros{
 	width: 100%;
 	height: 50vh;
+	text-align: center;
+	padding-top: 150px;
+}
+
+.formulario{
+	width: 100%;
+	height: 180vh;
 	text-align: center;
 	padding-top: 150px;
 }
@@ -184,6 +193,8 @@ iframe{
 }
 
 
+
+
 /*@media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) { }
@@ -204,7 +215,7 @@ and (max-device-width : 736px) { }
 	  	width: 100%;
 	  }
 	  .botonera li a {
-	    font-size: 10px;
+	    font-size: 15px;
 	}
 
 
